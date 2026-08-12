@@ -1,0 +1,84 @@
+{
+  "appName": "CropSmart",
+
+  "nav": {
+    "predict": "Predict",
+    "history": "History",
+    "chat": "AI Chat"
+  },
+
+  "auth": {
+    "title": "CropSmart",
+    "subtitle": "Climate-intelligent crop prediction",
+    "signIn": "Sign In",
+    "register": "Register",
+    "fullName": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "loading": "Please wait...",
+    "createAccount": "Create Account",
+    "continueGuest": "Continue as Guest",
+    "guestNote": "Predictions will not be saved in guest mode"
+  },
+
+  "predict": {
+    "soilInputs": "Soil & Climate Inputs",
+    "predictButton": "Predict Best Crop",
+    "autoFillWeather": "Auto-fill Weather",
+    "season": "Season"
+  },
+
+  "fields": {
+    "nitrogen": "Nitrogen (N)",
+    "phosphorus": "Phosphorus (P)",
+    "potassium": "Potassium (K)",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "ph": "Soil pH",
+    "rainfall": "Rainfall"
+  },
+
+  "result": {
+    "topMatches": "Top 5 Crop Matches",
+    "fertilizer": "Fertilizer Recommendation",
+    "soilHealth": "Soil Health Score",
+    "emptyState": "Enter your soil and climate data, then click Predict."
+  },
+
+  "history": {
+    "title": "Prediction History",
+    "empty": "No predictions yet. Run your first prediction!",
+    "signin": "Sign in to view your prediction history",
+    "delete": "Delete"
+  },
+
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "guestMode": "Guest Mode"
+  },
+
+  "soil.nitrogen": "Nitrogen (N)",
+  "soil.phosphorus": "Phosphorus (P)",
+  "soil.potassium": "Potassium (K)",
+  "soil.temperature": "Temperature",
+  "soil.humidity": "Humidity",
+  "soil.ph": "Soil pH",
+  "soil.rainfall": "Rainfall",
+
+  "season.label": "Season",
+  "season.kharif": "Kharif (Jun–Nov)",
+  "season.rabi": "Rabi (Nov–Apr)",
+  "season.zaid": "Zaid (Apr–Jun)",
+
+  "predict.loading": "Analysing soil...",
+  "predict.button": "Predict Best Crop",
+
+  "history.title": "Prediction History",
+  "history.empty": "No predictions yet. Run your first prediction!",
+
+  "predict.empty": "Enter your soil and climate data, then click Predict",
+
+  "auth.signIn": "Sign In",
+  "auth.register": "Register"
+}
