@@ -14,7 +14,7 @@ The system combines a **React.js frontend**, **Node.js/Express backend**, **Mong
 
 Users can provide important agricultural and environmental parameters such as Nitrogen, Phosphorus, Potassium, temperature, humidity, soil pH, rainfall, and season.
 
-![CropSmart Soil and Climate Inputs](screenshots/input-page.png)
+![CropSmart Soil and Climate Inputs](Screenshots/Input-ScreenShot.jpg)
 
 ---
 
@@ -22,7 +22,7 @@ Users can provide important agricultural and environmental parameters such as Ni
 
 After submitting the inputs, CropSmart generates the best crop recommendation along with the **Top 5 Crop Matches** and their confidence scores.
 
-![CropSmart Crop Recommendation Results](screenshots/prediction-results.png)
+![CropSmart Crop Recommendation Results](Screenshots/Prediction-result.jpg)
 
 ---
 
