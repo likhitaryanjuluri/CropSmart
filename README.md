@@ -14,7 +14,7 @@ The system combines a **React.js frontend**, **Node.js/Express backend**, **Mong
 
 Users can provide important agricultural and environmental parameters such as Nitrogen, Phosphorus, Potassium, temperature, humidity, soil pH, rainfall, and season.
 
-![CropSmart Soil and Climate Inputs](Screenshots/Input-ScreenShot.jpg)
+![CropSmart Soil and Climate Inputs](Screenshots/Inputs-ScreenShot.jpg)
 
 ---
 
